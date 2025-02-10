@@ -2,7 +2,7 @@
 	"name": "a6_shooter_15",
 	"short_name": "a6_shooter_15",
 	"start_url": "index.html",
-	"display": "standalone",
+	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
